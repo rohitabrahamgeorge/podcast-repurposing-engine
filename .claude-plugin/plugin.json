@@ -8,5 +8,16 @@
   },
   "homepage": "https://github.com/rohitabrahamgeorge/podcast-repurposing-engine",
   "repository": "https://github.com/rohitabrahamgeorge/podcast-repurposing-engine",
-  "keywords": ["podcast", "repurposing", "content", "reels", "youtube", "seo", "lead-magnet", "carousel", "skills"]
+  "keywords": [
+    "podcast",
+    "repurposing",
+    "content",
+    "reels",
+    "youtube",
+    "seo",
+    "lead-magnet",
+    "carousel",
+    "skills"
+  ],
+  "license": "MIT"
 }

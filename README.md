@@ -11,6 +11,7 @@
 ![Skills](https://img.shields.io/badge/skills-9-F15A22?style=for-the-badge)
 ![Views](https://img.shields.io/badge/views_driven-500K%2B-111111?style=for-the-badge)
 ![Works with](https://img.shields.io/badge/works_with-Claude_Code_%7C_Claude.ai-D97757?style=for-the-badge)
+![License](https://img.shields.io/badge/license-MIT-2EA44F?style=for-the-badge)
 
 <br/>
 
@@ -199,3 +200,7 @@ I built and tuned these skills on real shows. If you want help setting them up f
 **If this saves you a day of production work, ⭐ star the repo** so other creators can find it.
 
 </div>
+
+## License
+
+MIT. Free to use, fork and adapt, including for client work. See [LICENSE](LICENSE).
