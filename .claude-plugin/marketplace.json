@@ -1,0 +1,14 @@
+{
+  "name": "podcast-repurposing-engine",
+  "owner": {
+    "name": "Rohit Abraham George",
+    "url": "https://github.com/rohitabrahamgeorge"
+  },
+  "plugins": [
+    {
+      "name": "podcast-repurposing-engine",
+      "source": "./",
+      "description": "One transcript in, the whole content set out. Nine skills for podcast and webinar repurposing."
+    }
+  ]
+}

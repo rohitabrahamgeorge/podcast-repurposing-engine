@@ -1,0 +1,12 @@
+{
+  "name": "podcast-repurposing-engine",
+  "version": "1.0.0",
+  "description": "Nine Claude skills that turn one podcast or webinar transcript into reels, a YouTube package, an SEO blog, a lead magnet, an SEO audit, a trailer, B-roll research and a carousel.",
+  "author": {
+    "name": "Rohit Abraham George",
+    "url": "https://github.com/rohitabrahamgeorge"
+  },
+  "homepage": "https://github.com/rohitabrahamgeorge/podcast-repurposing-engine",
+  "repository": "https://github.com/rohitabrahamgeorge/podcast-repurposing-engine",
+  "keywords": ["podcast", "repurposing", "content", "reels", "youtube", "seo", "lead-magnet", "carousel", "skills"]
+}
