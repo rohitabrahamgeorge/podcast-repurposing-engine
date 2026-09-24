@@ -195,8 +195,6 @@ The skills write the brief. A human, or your editing tool of choice, still cuts 
 
 I built and tuned these skills on real shows. If you want help setting them up for your podcast or webinar series, customizing them to your voice, or building a skill for a workflow you run every week, [open an issue](https://github.com/rohitabrahamgeorge/podcast-repurposing-engine/issues) or reach out through [my GitHub profile](https://github.com/rohitabrahamgeorge).
 
-**Also by me:** [SEO Content Team](https://github.com/rohitabrahamgeorge/seo-content-team), eleven skills that plan, write, QA, interlink and track competitor comparison clusters.
-
 <div align="center">
 
 **If this saves you a day of production work, ⭐ star the repo** so other creators can find it.
