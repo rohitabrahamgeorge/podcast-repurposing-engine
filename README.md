@@ -12,6 +12,10 @@
 ![Views](https://img.shields.io/badge/views_driven-500K%2B-111111?style=for-the-badge)
 ![Works with](https://img.shields.io/badge/works_with-Claude_Code_%7C_Claude.ai-D97757?style=for-the-badge)
 
+<br/>
+
+<img src="assets/skills-grid.svg" alt="The nine skills: Episode Repurposing Engine, Clip Curator, YouTube Packaging, Podcast Blog Writer, Lead Magnet Playbook, Blog SEO Auditor, Trailer Architect, B-Roll Researcher, Carousel Deck Architect" width="720"/>
+
 [What you get](#what-you-get) · [How it works](#how-it-works) · [The nine skills](#the-nine-skills) · [Install](#install-in-2-minutes) · [FAQ](#faq)
 
 </div>
