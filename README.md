@@ -15,6 +15,8 @@
 
 <br/>
 
+<img src="assets/engine-hero.svg" alt="Podcast Repurposing Engine: one transcript in, the best moments picked, eight assets out" width="900"/>
+
 <img src="assets/skills-grid.svg" alt="The nine skills: Episode Repurposing Engine, Clip Curator, YouTube Packaging, Podcast Blog Writer, Lead Magnet Playbook, Blog SEO Auditor, Trailer Architect, B-Roll Researcher, Carousel Deck Architect" width="720"/>
 
 [What you get](#what-you-get) · [How it works](#how-it-works) · [The nine skills](#the-nine-skills) · [Install](#install-in-2-minutes) · [FAQ](#faq)
